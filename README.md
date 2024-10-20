@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **EduBridge Learnings**
+- 🔭 I’m currently working on **CitiusTech Health Care Private Limited**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Azure Devops**
 
 - 💬 Ask me about **Selenium, Java, TOSCA Automation, SQL**
 
